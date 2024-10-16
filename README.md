@@ -18,7 +18,7 @@ I'm a software developer based in Mumbai, India, with a passion for **Blockchain
 ## 🤝 Let’s Connect!
 Feel free to reach out if you're interested in collaboration or just want to chat about technology! 
 
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/akanksha-vish/)
 
 ## 🌟 Fun Facts
 - I love contributing to open-source projects!
