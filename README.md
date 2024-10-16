@@ -3,9 +3,8 @@
 I'm a software developer based in Mumbai, India, with a passion for **Blockchain** and **Backend Development**.
 
 ## 🚀 Current Projects
-- **[Retailigence](link-to-your-project)**: An AI-driven retail solution for optimizing store operations.
-- **[Your Other Projects](link-to-another-project)**: Brief description of other relevant projects.
-
+- **[Decentrawood](https://decentrawood.com/)**: An AI-driven metaverse gaming platform and NFT marketplace.
+  
 ## 🛠️ Skills
 - **Languages**: JavaScript, Python
 - **Runtime Environment**: Node.js
