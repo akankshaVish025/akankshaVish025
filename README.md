@@ -8,7 +8,7 @@ I'm a software developer based in Mumbai, India, with a passion for **Blockchain
 ## 🛠️ Skills
 - **Languages**: JavaScript, Python
 - **Runtime Environment**: Node.js
-- **Frameworks**: Express, Flask
+- **Frameworks/Libraries**: Express, Flask, Web3.js
 - **Databases**: MongoDB
 - **Version Control**: Git, GitHub, GitLab
 
