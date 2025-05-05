@@ -1,6 +1,6 @@
 # Hello, I'm Akanksha Vishwakarma! 👋
 
-I'm a software developer based in Mumbai, India, with a passion for **Blockchain** and **Backend Development**.
+I'm a software developer based in Mumbai, India, with a passion for **Blockchain** and **FullStack Development**.
 
 ## 🚀 Current Projects
 - **[Decentrawood](https://decentrawood.com/)**: An AI-driven metaverse gaming platform and NFT marketplace.
